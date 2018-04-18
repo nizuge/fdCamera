@@ -1,0 +1,4 @@
+config:
+  test: helloWorld!
+server:
+  port: 9996
